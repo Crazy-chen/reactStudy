@@ -1,0 +1,21 @@
+{
+  "name": "my-app-name",
+  "version": "1.0.0",
+  "description": "this is a test app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules/.bin/webpack-dev-server --progress",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chenmin",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.10.0"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.2.0"
+  }
+}
