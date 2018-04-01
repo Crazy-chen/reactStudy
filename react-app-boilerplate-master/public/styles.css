@@ -74,10 +74,10 @@ ul {
   width: 1em;
   content: "▶";
 }
-
 .card__title--is-open:brfore {
   content: "▼";
 }
+
 
 .checklist__task:first-child {
   margin-top: 10px;
